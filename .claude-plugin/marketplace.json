@@ -145,6 +145,17 @@
       },
       "source": "./plugins/security-guidance",
       "category": "security"
+    },
+    {
+      "name": "cut-sheet-agent",
+      "description": "Transcribe and format handwritten butcher cut sheets into clean digital records with per-cut weights, packaging notes, and totals",
+      "version": "1.0.0",
+      "author": {
+        "name": "Anthropic",
+        "email": "support@anthropic.com"
+      },
+      "source": "./plugins/cut-sheet-agent",
+      "category": "productivity"
     }
   ]
 }

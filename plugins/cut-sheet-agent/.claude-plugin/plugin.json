@@ -1,0 +1,9 @@
+{
+  "name": "cut-sheet-agent",
+  "version": "1.0.0",
+  "description": "Transcribe and format handwritten butcher cut sheets into clean digital records",
+  "author": {
+    "name": "Anthropic",
+    "email": "support@anthropic.com"
+  }
+}
